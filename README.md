@@ -1,6 +1,6 @@
 **ATM Simulation Program**
 
-Description:
+**Description:**
 
 This program simulates a basic ATM system using the C programming language.
 
@@ -11,7 +11,7 @@ The balance is initialized with a fixed amount at the start.
 A menu-based interface is used with loops and switch-case statements.
 
 
-Features:
+**Features:**
 
 Check current account balance
 
