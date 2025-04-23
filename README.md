@@ -1,5 +1,7 @@
-ATM Simulation Program
-Description
+**ATM Simulation Program**
+
+Description:
+
 This program simulates a basic ATM system using the C programming language.
 
 It allows the user to check balance, deposit money, and withdraw money.
@@ -8,7 +10,9 @@ The balance is initialized with a fixed amount at the start.
 
 A menu-based interface is used with loops and switch-case statements.
 
+
 Features:
+
 Check current account balance
 
 Deposit money to the account
